@@ -62,7 +62,7 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 
 
 <div align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=jakezmat&color=black&style=for-the-badge&label=👀" />
+<img align="center" src="https://komarev.com/ghpvc/?username=jakezmat&color=000000&style=for-the-badge&label=👀" />
 </div>
 
 <!--
