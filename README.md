@@ -9,8 +9,7 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 
 <div>
   <img align="right"  alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width="400" />
-  <br/>
-<br/>
+
 <br/>
 <br/>
   <h2 align="center">Software Engineer</h2>
