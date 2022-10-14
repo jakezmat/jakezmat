@@ -3,7 +3,7 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 </h2>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&size=25&color= C2CC13&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Software+Development+Engineer;Jake+Matillano" "alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Brandon+Grotesque&pause=1000&size=25&color= C2CC13&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Software+Development+Engineer;Jake+Matillano" "alt="Typing SVG" /></a>
 </p>
 
 <div>
@@ -67,7 +67,7 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jakezmat&count_private=true&theme=highcontrast&custom_title=Stats" height="250" width="500"/>
 </div>
 <div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=jakezmat&theme=high-contrast&custom_title=Contributions"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=jakezmat&theme=high-contrast&custom_title=Contributions&title_color=C2CC13"/>
 </div>
 <br/>
 <br/>
