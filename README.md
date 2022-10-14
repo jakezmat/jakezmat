@@ -19,17 +19,8 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 <br/>
 <br/>
 
-<div>
-<img align="left" alt="GIF2" src="https://64.media.tumblr.com/905418d22885ac782b8e0eaa916c6024/00537eb80603e4fe-0d/s500x750/42e8ffeb2eaec358171ff74c64e1b99e3049c879.gif" height="250" width="400" />
-<br/>
-<div align="right">  
-  <h3 align="center">What I'm Up To</h3>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔭 I’m currently working on building a Yelp Clone.</p>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning python, flask, alembic, and        docker!</p>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💬 Ask me about anything at all! I love meeting        new people :smile: </p>
-</div>  
 </div>
-</div>
+
 
 <br/>
 <br/>
@@ -98,3 +89,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div>
+<img align="left" alt="GIF2" src="https://64.media.tumblr.com/905418d22885ac782b8e0eaa916c6024/00537eb80603e4fe-0d/s500x750/42e8ffeb2eaec358171ff74c64e1b99e3049c879.gif" height="250" width="400" />
+<br/>
+<div align="right">  
+  <h3 align="center">What I'm Up To</h3>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔭 I’m currently working on building a Yelp Clone.</p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning python, flask, alembic, and        docker!</p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💬 Ask me about anything at all! I love meeting        new people :smile: </p>
+</div>  
