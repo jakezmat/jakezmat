@@ -37,7 +37,6 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 <br/>
 
 <h2 align="center">Technologies Used:</h2>
-<br/>
 
 <div>
 <span align="center">
