@@ -61,14 +61,14 @@ Hey there👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 <br/>
   
 <h2 align="center"> :gear: Github Stats </h2>
-<div align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=jakezmat&color=FFD700" />
-</div>
+
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakezmat&theme=dracula" height="250" width="250"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jakezmat&theme=dracula" height="250" width="500"/>
 </div>
-
+<div align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=jakezmat&color=FFD700" />
+</div>
 
 <!--
 **jakezmat/jakezmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
