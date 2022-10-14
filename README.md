@@ -1,5 +1,5 @@
 <h2 align="center">
-Hey there👋 My name is Jake. Welcome to my GitHub Profile! :smile:
+Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 </h2>
 
 <p align="center">
