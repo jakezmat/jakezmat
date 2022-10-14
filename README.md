@@ -59,12 +59,7 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
   <img src="https://activity-graph.herokuapp.com/graph?username=jakezmat&theme=high-contrast&custom_title=Contributions&title_color=C2CC13"/>
 </div>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 <div align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=jakezmat&color=966166" />
