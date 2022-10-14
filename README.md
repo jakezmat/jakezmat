@@ -67,7 +67,7 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jakezmat&count_private=true&theme=dracula" height="250" width="500"/>
 </div>
 <div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=jakezmat&theme=high-contrast"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=jakezmat&theme=high-contrast&custom_title=Contributions"/>
 </div>
 <br/>
 <br/>
