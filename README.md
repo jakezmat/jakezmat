@@ -63,8 +63,8 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 <h2 align="center"> :gear: Github Stats </h2>
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakezmat&theme=dracula" height="250" width="250"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jakezmat&count_private=true&theme=dracula" height="250" width="500"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakezmat&theme=dracula&custom_title=Languages" height="250" width="250"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jakezmat&count_private=true&theme=dracula&custom_title=Stats" height="250" width="500"/>
 </div>
 <div>
   <img src="https://activity-graph.herokuapp.com/graph?username=jakezmat&theme=high-contrast&custom_title=Contributions"/>
