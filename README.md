@@ -13,16 +13,10 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
   <img align="right"  alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="350" />
   <h2 align="center">About Me</h2>
 
-### Im a software engineer with experience in building full stack web applications. When I'm not at my desk, I enjoy exploring nature, learning new skills, and experimenting with cooking and baking! My passion is experiencing life to its fullest so I'm always looking for opportunities to expand my knowledge and grow as a person.
-
-
-
+<font size="5">Im a software engineer with experience in building ***full stack*** web applications. When I'm not at my desk, I enjoy exploring nature, learning new skills, and experimenting with cooking and baking! My passion is experiencing life to its fullest so I'm always looking for opportunities to expand my knowledge and grow as a person.</font>
 
 </div>
-
-
-
-
+  
 <br/>
 <br/>
 
@@ -42,7 +36,7 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
   
 </div>
 
-<!--
+<!-- shields badges 
 database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
