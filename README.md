@@ -15,15 +15,13 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 
 ### Im a software engineer with experience in building full stack web applications. When I'm not at my desk, I enjoy exploring nature, learning new skills, and experimenting with cooking and baking! My passion is experiencing life to its fullest so I'm always looking for opportunities to expand my knowledge and grow as a person.
 
-<br/>
-<br/>
+
 
 
 </div>
 
 
-<br/>
-<br/>
+
 
 <br/>
 <br/>
