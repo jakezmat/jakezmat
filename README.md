@@ -11,7 +11,7 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 
 <div>
   <img align="right"  alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="350" />
-  <h2 align="center">Software Engineer</h2>
+  <h2 align="center">About Me</h2>
 
 ### Im a software engineer with experience in building full stack web applications. When I'm not at my desk, I enjoy exploring nature, learning new skills, and experimenting with cooking and baking! My passion is experiencing life to its fullest so I'm always looking for opportunities to expand my knowledge and grow as a person.
 
