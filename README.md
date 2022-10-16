@@ -1,10 +1,10 @@
 <!-- thnx kelly :) -->
 <h2 align="center">
-Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
+  Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 </h2>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&size=30&color= FFF325&center=true&vCenter=true&width=475&lines=Full+Stack+Web+Developer;Software+Development+Engineer;Jake+Matillano" "alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&size=30&color=            FFF325&center=true&vCenter=true&width=475&lines=Full+Stack+Web+Developer;Software+Development+Engineer;Jake+Matillano" "alt="Typing SVG" /></a>
 </p>
 
 <!-- HEY YOU! SINCE YOU'RE HERE, WHY NOT STAR THIS REPO :) OK BYE -->
@@ -13,7 +13,7 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
   <img align="right"  alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="350" />
   <h2 align="center">About Me</h2>
 
-<font size="5">Im a software engineer with experience in building ***full stack*** web applications. When I'm not at my desk, I enjoy exploring nature, learning new skills, and experimenting with cooking and baking! My passion is experiencing life to its fullest so I'm always looking for opportunities to expand my knowledge and grow as a person.</font>
+  <font size="5">Im a software engineer with experience in building ***full stack*** web applications. When I'm not at my desk, I enjoy exploring nature, learning new    skills, and experimenting with cooking and baking! My passion is experiencing life to its fullest so I'm always looking for opportunities to expand my knowledge and    grow as a person.</font>
 
 </div>
   
@@ -23,20 +23,19 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 <h2 align="center">Technologies Used:</h2>
 
 <div>
-<div align="center">
-  <h3>Languages</h3>
+  <div align="center">
+    <h3>Languages</h3>
   
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+      ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+      ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+      ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+      ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+      ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+      ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   
-  
-</div>
+  </div>
 
-<!-- shields badges 
+<!-- shields badges fpr reference
 database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -69,32 +68,32 @@ IDE's
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 -->
 
-<div align="center">
-  <h3>Frameworks, Platforms, and Libraries</h3>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <div align="center">
+    <h3>Frameworks, Platforms, and Libraries</h3>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   
-  ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+    ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-</div>
+  </div>
   
-<div align="center">
-  <h3>Hosting/SaaS & Others</h3>
+  <div align="center">
+    <h3>Hosting/SaaS & Others</h3>
   
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+    ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+    ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
   
-</div>
+  </div>
 </div>
   
 <br/>
@@ -103,17 +102,16 @@ IDE's
 <h2 align="center"> :gear: Github Stats </h2>
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakezmat&theme=highcontrast&custom_title=Languages&langs_count=10&title_color=FFF325" height="250" width="250"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jakezmat&count_private=true&theme=highcontrast&custom_title=Stats&title_color=FFF325" height="250" width="500"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakezmat&theme=highcontrast&custom_title=Languages&langs_count=10&title_color=FFF325" height="250" width="250"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jakezmat&count_private=true&theme=highcontrast&custom_title=Stats&title_color=FFF325" height="250" width="500"/>
 </div>
 <div>
   <img src="https://activity-graph.herokuapp.com/graph?username=jakezmat&theme=high-contrast&custom_title=Contributions&title_color=FFF325"/>
 </div>
 <br/>
 
-
 <div align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=jakezmat&color=000000&style=for-the-badge&label=👀Watching..." />
+  <img align="center" src="https://komarev.com/ghpvc/?username=jakezmat&color=000000&style=for-the-badge&label=👀Watching..." />
 </div>
 
 <!--
