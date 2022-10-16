@@ -4,7 +4,7 @@ Hey there!👋 My name is Jake. Welcome to my GitHub Profile! :smile:
 </h2>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&size=30&color= C2CC13&center=true&vCenter=true&width=475&lines=Full+Stack+Web+Developer;Software+Development+Engineer;Jake+Matillano" "alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&size=30&color= FFF325&center=true&vCenter=true&width=475&lines=Full+Stack+Web+Developer;Software+Development+Engineer;Jake+Matillano" "alt="Typing SVG" /></a>
 </p>
 
 <!-- HEY YOU! SINCE YOU'RE HERE, WHY NOT STAR THIS REPO :) OK BYE -->
