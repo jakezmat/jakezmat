@@ -14,8 +14,6 @@
   <h2 align="center">About Me</h2>
 
   <font size="5">Im a software engineer with experience in building ***full stack*** web applications. When I'm not at my desk, I enjoy exploring nature, learning new    skills, and experimenting with cooking and baking! My passion is experiencing life to its fullest so I'm always looking for opportunities to expand my knowledge and    grow as a person.</font>
-  
-   Contact Me: 
     
   <a href="https://www.linkedin.com/in/jake-matillano-b141811a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzX56GhFSQHyow%2Fn6BfTVig%3D%3D" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
