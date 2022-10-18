@@ -113,7 +113,7 @@ IDE's
 <br/>
 
 <div align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=jakezmat&color=000000&style=for-the-badge&label=👀Watching..." />
+  <img align="center" src="https://komarev.com/ghpvc/?username=jakezmat&color=000000&style=for-the-badge&label=👀Profile Views" />
 </div>
 
 <!--
