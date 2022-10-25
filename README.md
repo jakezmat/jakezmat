@@ -104,16 +104,16 @@ IDE's
 <h2 align="center"> :gear: Github Stats </h2>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakezmat&theme=highcontrast&custom_title=Languages&langs_count=10&title_color=FFF325" height="250" width="250"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jakezmat&count_private=true&theme=highcontrast&custom_title=Stats&title_color=FFF325" height="250" width="500"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdoofey&theme=highcontrast&custom_title=Languages&langs_count=10&title_color=FFF325" height="250" width="250"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jdoofey&count_private=true&theme=highcontrast&custom_title=Stats&title_color=FFF325" height="250" width="500"/>
 </div>
 <div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=jakezmat&theme=high-contrast&custom_title=Contributions&title_color=FFF325"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=jdoofey&theme=high-contrast&custom_title=Contributions&title_color=FFF325"/>
 </div>
 <br/>
 
 <div align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=jakezmat&color=000000&style=for-the-badge&label=👀Profile Views" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=jdoofey&color=000000&style=for-the-badge&label=👀Profile Views" />
 </div>
 
 <!--
