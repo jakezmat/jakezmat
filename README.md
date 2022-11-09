@@ -104,7 +104,7 @@ IDE's
 <h2 align="center"> :gear: Github Stats </h2>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdoofey&theme=highcontrast&custom_title=Languages&langs_count=7&title_color=FFF325" height="250" width="250"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdoofey&theme=highcontrast&custom_title=Languages&langs_count=6&title_color=FFF325" height="250" width="450"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jdoofey&count_private=true&theme=highcontrast&custom_title=Stats&title_color=FFF325" height="250" width="500"/>
 </div>
 <div>
