@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="right">  
   <h3 align="center">What I'm Up To</h3>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔭 I’m currently working on building a Yelp Clone.</p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; kelly mwah 🔭 I’m currently working on building a Yelp Clone.</p>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning python, flask, alembic, and        docker!</p>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💬 Ask me about anything at all! I love meeting        new people :smile: </p>
 </div>  
