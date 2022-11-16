@@ -118,9 +118,9 @@ IDE's
     
 <div align="center">
     
-    ![Leetcode Stats](https://leetcard.jacoblin.cool/jdoofey)
+![Leetcode Stats](https://leetcard.jacoblin.cool/jdoofey)
     
-    </div>
+</div>
 
 <!--
 **jakezmat/jakezmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
