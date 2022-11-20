@@ -115,13 +115,16 @@ IDE's
 <div align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=jdoofey&color=000000&style=for-the-badge&label=👀Profile Views" />
 </div>
+   
     
-<!--
 <div align="center">
     
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jdoofey)
     
 </div>
+    
+<!--
+
 
 --!>
     
